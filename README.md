@@ -24,4 +24,4 @@ Note:
 2 .testcaferc.json file is used commonly for maintaining implicit wait, explicit wait, page load..etc
 
 Challenges:
-Udemy website is not support for doing automation (not stable)
+Udemy website is not support for doing automation (not stable) as I have tried with Selenium Webdriver with JAVA and Testcafe with JavaScript
