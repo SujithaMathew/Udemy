@@ -1,0 +1,10 @@
+{
+    "appInitDelay": 8000,
+    "concurrency": 1,
+    "selectorTimeout": 10000,
+    "assertionTimeout": 25000,
+    "pageloadTimeout": 25000,
+    "pageRequestTimeout": 9000,
+    "speed":0.4,
+    "skipJsErrors": true
+}
